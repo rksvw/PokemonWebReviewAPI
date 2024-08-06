@@ -1,4 +1,4 @@
-﻿namespace GameStore.modals
+﻿namespace GameStore.Models
 {
     public class Category
     {
