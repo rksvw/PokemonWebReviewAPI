@@ -1,6 +1,6 @@
 @GameStore_HostAddress = http://localhost:5051
 
-GET {{GameStore_HostAddress}}/weatherforecast/
+GET {{GameStore_HostAddress}}/pokemons/
 Accept: application/json
 
 ###
